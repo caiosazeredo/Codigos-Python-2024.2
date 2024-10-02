@@ -1,0 +1,10 @@
+#Passo a passo para fazer um miojo
+print("Pegar a panela")
+print("Colocar agua na panela")
+print("Colocar a panela no fogão")
+print("Acender o fogo")
+print("Colocar o miojo na agua")
+print("Esperar os 3 minutos")
+print("Colocar o tempero")
+print("Mexer o miojo")
+print("Empratar")
